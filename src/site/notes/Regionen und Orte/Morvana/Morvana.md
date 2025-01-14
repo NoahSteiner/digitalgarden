@@ -7,5 +7,5 @@
 
 **Übergänge:**
 
-- **Nach Westen:** Die Sumpfregion trocknet aus und führt in die Sandwüste Al-Sahra.
-- **Nach Süden:** Die Sümpfe steigen an und münden in das Gebirge, das sie speist.
+- **Nach Westen:** Die Sümpfe steigen an und münden in das Gebirge [[Regionen und Orte/Aurion/Aurion\|Aurion]], das sie speist.
+- **Nach Süden:** Die Sümpfe laufen aus und münden in die Küstenregion [[Regionen und Orte/Azuria/Azuria\|Azuria]].
