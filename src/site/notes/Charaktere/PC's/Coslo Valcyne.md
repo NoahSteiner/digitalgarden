@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/charaktere/pc-s/coslo-valcyne/"}
 ---
 
-## Ein Brief von [[Charaktere/PC's/Coslo Valcyne\|Coslo Valcyne]]
+## Ein Brief von Coslo Valcyne
 
 
 An alle, die bereit sind, die Geschichten anderer zu hören und ihre eigene zu erzählen,
 
-mein Name ist **[[Charaktere/PC's/Coslo Valcyne\|Coslo Valcyne]]**, und dies ist meine Geschichte.
+mein Name ist **Coslo Valcyne**, und dies ist meine Geschichte.
 
 ---
 
@@ -44,4 +44,4 @@ Ich sehe euch nicht nur als Mitreisende, sondern als Gefährten, die mit ihren e
 Ich verspreche, dass ich an eurer Seite stehen werde, so lange ich kann. Gemeinsam können wir den Schatten trotzen, der sich über Valdoria legt.
 
 In Freundschaft und Hoffnung,  
-**[[Charaktere/PC's/Coslo Valcyne\|Coslo Valcyne]]**
+**Coslo Valcyne**

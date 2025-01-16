@@ -14,7 +14,7 @@ Willkommen, Abenteurer, in unserem Obsidian Vault! Hier findest du alle bisher b
 
 Diese Seite ist ein lebendiges Archiv. Sie enthält:
 
-- **Regionen und Orte**: Entdecke die Details zu den acht faszinierenden Regionen von Valdoria, von den eisigen Weiten [[Regionen und Orte/Erythria/Erythria\|Erythria]] bis zu den tropischen Küsten [[Regionen und Orte/Azuria/Azuria\|Azuria]].
+- **Regionen und Orte**: Entdecke die Details zu den acht faszinierenden Regionen von [[Regionen und Orte/Valdoria\|Valdoria]], von den eisigen Weiten [[Regionen und Orte/Erythria/Erythria\|Erythria]] bis zu den tropischen Küsten [[Regionen und Orte/Azuria/Azuria\|Azuria]].
 
 - **NSC und Fraktionen**: Erfahre mehr über die Charaktere, denen ihr begegnet seid, und die Gruppierungen, die die Welt beeinflussen.
 

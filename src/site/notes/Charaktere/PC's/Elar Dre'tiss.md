@@ -2,19 +2,19 @@
 {"dg-publish":true,"permalink":"/charaktere/pc-s/elar-dre-tiss/"}
 ---
 
-## Ein Brief von [Elar Dre'tiss]
+## Ein Brief von Elar Dre'tiss
 
 
 An alle, die bereit sind, die Geschichten anderer zu hören und ihre eigene zu erzählen,
 
-mein Name ist **[Elar Dre'tiss]**, und dies ist meine Geschichte.
+mein Name ist **Elar Dre'tiss**, und dies ist meine Geschichte.
 
 
 ### Über mich
 
 Ich stamme aus einem Zuhause, das längst nicht mehr existiert. Ein Drache zerstörte mein gesamtes Dorf, meine Gilde, meine Heimat. Ich bin der letzte Überlebende.  Mein gesamtes Leben lang habe ich ihn gesucht, ihn gefunden und im Sterben gesehen. Ich aß sein Herz – so wie er all jene, die ich liebte, verschlungen hat.
 
-Seitdem sind Jahrzehnte vergangen, und dennoch hallen die Schreie jener Tage in meinem Inneren wider. Ein steinernes Drachenknochenherz trage ich seit einiger Zeit über meiner Brust. Es erinnert mich sowohl an die schrecklichen Tage meines Verlustes als auch an die Stärke, die ich durch diese Tragödie gewonnen habe. Es hat die größe meines Drachenmals auf der Brust, doch sind sie nicht gleich.
+Seitdem sind Jahrzehnte vergangen, und dennoch hallen die Schreie jener Tage in meinem Inneren wider. Ein steinernes Drachenknochenherz trage ich seit einiger Zeit über meiner Brust. Es erinnert mich sowohl an die schrecklichen Tage meines Verlustes als auch an die Stärke, die ich durch diese Tragödie gewonnen habe. Es hat die Größe meines Drachenmals auf der Brust, doch sind sie nicht gleich.
 
 ---
 
@@ -44,4 +44,4 @@ Ich glaube nur gemeinsam können wir Antworten finden – für Valdoria, und fü
 Möge unser Weg uns Klarheit bringen, auch wenn tausende Schritte mich begleiten
 
 in Hoffnung auf Antworten
-**[Elar Dre'tiss]**
+**Elar Dre'tiss**
