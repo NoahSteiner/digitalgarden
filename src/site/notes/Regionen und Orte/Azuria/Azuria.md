@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regionen-und-orte/azuria/azuria/"}
+{"dg-publish":true,"permalink":"/regionen-und-orte/azuria/azuria/","tags":["Region"],"created":"2024-12-27T12:41:41.911+01:00","updated":"2025-01-16T11:32:23.155+01:00"}
 ---
 
 **Lage:** Südwestlich des Dschungels von Viridia und der Großen Wüste.  

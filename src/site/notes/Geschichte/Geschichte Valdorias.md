@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/geschichte/geschichte-valdorias/"}
+{"dg-publish":true,"permalink":"/geschichte/geschichte-valdorias/","created":"2025-01-15T00:01:07.401+01:00","updated":"2025-01-16T10:39:30.346+01:00"}
 ---
 
 Die letzten Jahrzehnte sind geprägt von einem scheinbaren Frieden, der auf den Trümmern eines brutalen Krieges errichtet wurde.

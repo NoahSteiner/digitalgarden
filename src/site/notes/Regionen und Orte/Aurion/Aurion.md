@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regionen-und-orte/aurion/aurion/"}
+{"dg-publish":true,"permalink":"/regionen-und-orte/aurion/aurion/","tags":["Region"],"created":"2024-12-27T12:41:12.078+01:00","updated":"2025-01-16T11:32:15.331+01:00"}
 ---
 
 **Lage:** Nordwestlich der gemäßigten Ebenen.  

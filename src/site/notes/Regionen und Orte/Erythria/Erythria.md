@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regionen-und-orte/erythria/erythria/"}
+{"dg-publish":true,"permalink":"/regionen-und-orte/erythria/erythria/","tags":["Region"],"created":"2024-12-27T12:42:03.501+01:00","updated":"2025-01-16T11:32:31.334+01:00"}
 ---
 
 **Lage:** Im äußersten Norden des Kontinents.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regionen-und-orte/morvana/morvana/"}
+{"dg-publish":true,"permalink":"/regionen-und-orte/morvana/morvana/","tags":["Region"],"created":"2024-12-27T12:45:01.364+01:00","updated":"2025-01-16T11:33:02.924+01:00"}
 ---
 
 **Lage:** Südöstlich der Wüste und an den Ausläufern eines weiteren Gebirges.  

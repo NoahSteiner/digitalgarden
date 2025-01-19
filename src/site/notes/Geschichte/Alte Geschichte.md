@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/geschichte/alte-geschichte/"}
+{"dg-publish":true,"permalink":"/geschichte/alte-geschichte/","created":"2025-01-16T10:30:17.301+01:00","updated":"2025-01-19T10:05:30.460+01:00"}
 ---
 
 Vor etwa 50 Jahren war [[Regionen und Orte/Valdoria\|Valdoria]] ein zerstrittener Kontinent, zerrissen von Kriegen, Misstrauen und der Gier nach Macht. Königreiche, Stadtstaaten und magische Orden kämpften um Territorien, Ressourcen und die Kontrolle über magische Wesen.

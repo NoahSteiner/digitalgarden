@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/charaktere/pc-s/waluigi/"}
+{"dg-publish":true,"permalink":"/charaktere/pc-s/waluigi/","created":"2025-01-13T10:24:38.991+01:00","updated":"2025-01-16T11:24:33.898+01:00"}
 ---
 
 ## Ein Brief von Waluigi

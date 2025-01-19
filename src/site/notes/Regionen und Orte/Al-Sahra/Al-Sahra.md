@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regionen-und-orte/al-sahra/al-sahra/"}
+{"dg-publish":true,"permalink":"/regionen-und-orte/al-sahra/al-sahra/","tags":["Region"],"created":"2024-12-27T12:39:54.828+01:00","updated":"2025-01-16T11:32:05.574+01:00"}
 ---
 
 **Lage:** Zentral im Süden, südöstlich der gemäßigten Ebenen.  

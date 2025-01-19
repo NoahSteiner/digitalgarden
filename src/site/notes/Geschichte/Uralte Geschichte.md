@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/geschichte/uralte-geschichte/"}
+{"dg-publish":true,"permalink":"/geschichte/uralte-geschichte/","created":"2025-01-16T10:28:38.827+01:00","updated":"2025-01-19T10:05:30.117+01:00"}
 ---
 
 ### **I. Die Alte Mythenzeit (Ancient History)**

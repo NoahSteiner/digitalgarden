@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regionen-und-orte/karadun/karadun/"}
+{"dg-publish":true,"permalink":"/regionen-und-orte/karadun/karadun/","tags":["Region"],"created":"2024-12-27T12:42:45.934+01:00","updated":"2025-01-16T11:32:42.019+01:00"}
 ---
 
 **Lage:** Südlich von Erythria, als Übergang zwischen der Polarzone und den gemäßigten Regionen.  

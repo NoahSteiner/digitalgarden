@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regionen-und-orte/viridia/viridia/"}
+{"dg-publish":true,"permalink":"/regionen-und-orte/viridia/viridia/","tags":["Region"],"created":"2024-12-27T12:44:19.821+01:00","updated":"2025-01-16T11:33:12.252+01:00"}
 ---
 
 **Lage:** Südwestlich der gemäßigten Ebenen und am Fuß des Gläsernen Gebirges.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regionen-und-orte/lunaria/lunaria/"}
+{"dg-publish":true,"permalink":"/regionen-und-orte/lunaria/lunaria/","tags":["Region"],"created":"2024-12-27T12:42:30.165+01:00","updated":"2025-01-16T11:32:54.239+01:00"}
 ---
 
 **Lage:** Zentral im Norden, südlich der Steppe.  
