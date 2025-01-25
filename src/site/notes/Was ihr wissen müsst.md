@@ -1,8 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/was-ihr-wissen-muesst/","created":"2025-01-25T22:28:18.231+01:00","updated":"2025-01-25T22:33:20.126+01:00"}
+{"dg-publish":true,"permalink":"/was-ihr-wissen-muesst/","created":"2025-01-25T22:28:18.231+01:00","updated":"2025-01-25T22:39:03.892+01:00"}
 ---
 
-### Willkommen in **Ashheart** und der Wüstenregion **Al-Sahra**
+#  **Bereitet euch auf eine Welt voller Gefahren, Magie und Geheimnisse vor. Eure Reise beginnt in Ashheart auf dem Marktplatz – euer Schicksal liegt in euren Händen. 
+
+
+
+### Willkommen in **Ashheart** und der Wüstenregion **Al-Sahar**
+
 
 ### **Die Welt von Valdoria**
 Valdoria ist ein Kontinent voller Vielfalt, Magie und Gefahren. Ihr beginnt euer Abenteuer in der südlichen Wüstenregion **[[Regionen und Orte/Al-Sahar/Al-Sahar\|Al-Sahar]]**, einer endlosen Wüste voller Dünen, Ruinen und tödlicher Gefahren. 
@@ -17,7 +22,7 @@ Ashheart ist eine pulsierende Handelsstadt am Rand von [[Regionen und Orte/Al-Sa
    - Es gibt hier alles: einfache Reiseausrüstung, magische Schriftrollen und seltene Heilkräuter.
 
 2. **Grey End (Graue Ecke)**  
-   - Ein schäbiges Viertel, bekannt für seinen Schwarzmarkt.  
+   - Ein schäbiges Viertel.  
    - Hier kann man zwielichtige Händler treffen, die illegale oder seltene Waren verkaufen.  
 
 3. **Daggerfall District**  
@@ -48,16 +53,16 @@ Die Wüste **[[Regionen und Orte/Al-Sahar/Al-Sahar\|Al-Sahar]]** ist eine gnaden
 
 #### **Typische Bräuche:**
 - **Gastfreundschaft:** In der Wüste ist Gastfreundschaft heilig. Es ist üblich, Reisenden Wasser und Nahrung anzubieten.  
-- **Handel:** Alles hat einen Preis – in Al-Sahar wird jeder Handel gefeilscht.  
+- **Handel:** Alles hat einen Preis – in [[Regionen und Orte/Al-Sahar/Al-Sahar\|Al-Sahar]] wird jeder Handel gefeilscht.  
 
 ---
 
 ### **Aktuelle Gerüchte und Ereignisse**
-- „Die Banditen werden immer dreister. Neulich haben sie sogar Händler im Herzen von Ashheart überfallen!“  
+- „Die Banditen werden immer dreister. Neulich haben sie sogar Händler im Herzen von [[Regionen und Orte/Al-Sahar/Ashheart/Ashheart\|Ashheart]] überfallen!“  
 - „Ich habe gehört, tief in der Wüste gibt es eine Ruinenstadt voller Schätze. Aber keiner, der sie sucht, kommt je zurück.“  
-- „Ein neuer Kult treibt sein Unwesen – sie reden von Bestien und Herzblut. Ich würde mich fernhalten.“  
+- „Es geschehen seltsame Dinge. Leute verschwinden spurlos und werden später tot aufgefunden.“  
 
 
 ---
 
-**Bereitet euch auf eine Welt voller Gefahren, Magie und Geheimnisse vor. Eure Reise beginnt in Ashheart auf dem Marktplatz – euer Schicksal liegt in euren Händen.**  
+

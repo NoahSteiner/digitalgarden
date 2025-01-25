@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regionen-und-orte/valdoria/","created":"2025-01-14T23:53:37.318+01:00","updated":"2025-01-16T11:38:32.111+01:00"}
+{"dg-publish":true,"permalink":"/regionen-und-orte/valdoria/","created":"2025-01-14T23:53:37.318+01:00","updated":"2025-01-22T11:01:21.181+01:00"}
 ---
 
 Valdoria ist ein vielfältiger Kontinent, reich an Geschichte, Magie und Abenteuern. Seine Landschaften reichen von eisigen Polarzonen bis hin zu tropischen Küstenregionen. Hier findest du eine Übersicht über die verschiedenen Regionen und ihre Besonderheiten.
@@ -20,7 +20,7 @@ Valdoria ist ein vielfältiger Kontinent, reich an Geschichte, Magie und Abenteu
 
 #### 3. [[Regionen und Orte/Karadun/Karadun\|Karadun]]
 
-- **Lage:** Südlich von [[Regionen und Orte/Lunaria/Lunaria\|Lunaria]] und im Norden von [[Regionen und Orte/Al-Sahra/Al-Sahra\|Al-Sahra]].
+- **Lage:** Südlich von [[Regionen und Orte/Lunaria/Lunaria\|Lunaria]] und im Norden von [[Regionen und Orte/Al-Sahar/Al-Sahar\|Al-Sahar]].
 - **Beschreibung:** Steppe mit Nomadenkulturen, Wildpferden und Gewürzen.
 
 #### 4. [[Regionen und Orte/Aurion/Aurion\|Aurion]]
@@ -38,7 +38,7 @@ Valdoria ist ein vielfältiger Kontinent, reich an Geschichte, Magie und Abenteu
 - **Lage:** Im Südosten.
 - **Beschreibung:** Nebelsümpfe mit Alchemisten und magischen Ressourcen.
 
-#### 7. [[Regionen und Orte/Al-Sahra/Al-Sahra\|Al-Sahra]]
+#### 7. [[Regionen und Orte/Al-Sahar/Al-Sahar\|Al-Sahar]]
 
 - **Lage:** Zentral im Süden.
 - **Beschreibung:** Sandwüste mit Oasen, Karawanenrouten und Ruinen.
@@ -59,7 +59,7 @@ Valdoria ist ein Kontinent mit vielfältigen Kulturen, die von den Landschaften 
 ## Karte
 
 Die Karte von Valdoria zeigt die verschiedenen Regionen und ihre Verbindungen.
-![Aldoria.jpg](/img/user/PNG's/Aldoria.jpg)
+![Valdoria.jpg](/img/user/PNG's/Valdoria.jpg)
 
 ---
 
