@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/charaktere/pc-s/coslo-valcyne/","created":"2025-01-14T17:41:58.907+01:00","updated":"2025-01-14T23:48:55.486+01:00"}
+{"dg-publish":true,"permalink":"/charaktere/pc-s/coslo-valcyne/","tags":["PC","DND","Max"],"created":"2025-01-14T17:41:58.907+01:00","updated":"2025-02-02T20:11:18.587+01:00"}
 ---
 
 ## Ein Brief von Coslo Valcyne

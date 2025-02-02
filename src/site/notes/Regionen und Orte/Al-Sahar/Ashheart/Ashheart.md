@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/regionen-und-orte/al-sahar/ashheart/ashheart/","tags":["City"],"created":"2025-01-16T10:39:58.680+01:00","updated":"2025-01-25T22:28:04.135+01:00"}
+{"dg-publish":true,"permalink":"/regionen-und-orte/al-sahar/ashheart/ashheart/","tags":["City"],"created":"2025-01-16T10:39:58.680+01:00","updated":"2025-02-01T10:41:01.392+01:00"}
 ---
 
 **Ashheart** ist eine kleine, aber geschäftige Stadt am Rand der Wüste [[Regionen und Orte/Al-Sahar/Al-Sahar\|Al-Sahar]]. Sie dient als Handels- und Rastpunkt für Karawanen, Nomaden und Reisende, die entweder in die Wüste oder hinaus ins fruchtbare Land der Steppen ziehen. Die Stadt ist in mehrere Bezirke unterteilt, die jeweils ihre eigene Atmosphäre und Bedeutung haben.
 
-![[ashheart.png\|ashheart.png]]
+![ashheart.jpg](/img/user/PNG's/ashheart.jpg)
 ---
 
 ### **Bezirke und ihre Funktionen**
