@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sesssions/session-2/","tags":["Session","DND","Max","Christoph","Nico","PC","NPC","Tobi"],"created":"2025-03-14T21:14:48.435+01:00","updated":"2025-03-14T21:17:10.264+01:00"}
+{"dg-publish":true,"permalink":"/sesssions/session-2/","tags":["Session","DND","Max","Christoph","Nico","PC","NPC","Tobi"],"created":"2025-03-14T21:14:48.435+01:00","updated":"2025-03-14T23:12:39.072+01:00"}
 ---
 
 ### **Session 2 – Das Blutritual der Vergessenen Ruinen**
@@ -15,7 +15,7 @@ Nach einem kurzen Halt in der Stadt, wo sie **Vorräte auffüllten** und [[Chara
 
 ### **Die Ruinen erwachen**
 
-Als sie die **vergessenen Ruinen** erreichten, durchsuchten sie die **verlassenen Gebäude** und fanden einige **alte Wertgegenstände**. [[Charaktere/PC's/Coslo Valcyne\|Coslo Valcyne]] und [[Charaktere/PC's/Elar Dre'tiss\|Elar]] erklommen einen **alten Turm**, von dem aus sie einen **ausgegrabenen Eingang** mit flackerndem **Fackelschein** erspähten. Es war klar – **hier musste der Kult sein.**
+Als sie die **vergessenen Ruinen** erreichten, durchsuchten sie die **verlassenen Gebäude** und fanden einige **alte Wertgegenstände**. [[Charaktere/PC's/Waluigi\|Waluigi]] und [[Charaktere/PC's/Elar Dre'tiss\|Elar]] erklommen einen **alten Turm**, von dem aus sie einen **ausgegrabenen Eingang** mit flackerndem **Fackelschein** erspähten. Es war klar – **hier musste der Kult sein.**
 
 Vorsichtig betraten sie den **Dungeon**.
 
