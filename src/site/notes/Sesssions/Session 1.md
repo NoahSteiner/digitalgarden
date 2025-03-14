@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sesssions/session-1/","tags":["Session","DND"],"created":"2025-02-02T20:04:36.824+01:00","updated":"2025-02-02T20:33:48.355+01:00"}
+{"dg-publish":true,"permalink":"/sesssions/session-1/","tags":["Session","DND"],"created":"2025-02-02T20:04:36.824+01:00","updated":"2025-02-04T17:11:14.830+01:00"}
 ---
 
 ### **Session 1 – Die Schatten von Ashheart**
@@ -53,3 +53,4 @@ Nachdem der Kampf vorbei war, plünderten die Abenteurer das Lager und fanden sc
 **„Herzblut“ … und „Dunkelheit“.“
 
 **Etwas Größeres war im Gange, und dies war nur der Anfang.**
+
