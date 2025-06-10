@@ -1,45 +1,46 @@
-/* Valdoria Medieval Theme - Verbesserte Version */
+/* Valdoria Medieval Theme - Finale Version */
 @import url('https://fonts.googleapis.com/css2?family=Almendra:ital,wght@0,400;0,700;1,400&family=Spectral:ital,wght@0,300;0,400;0,600;1,400&display=swap');
 
 :root {
-    --parchment-light: #faf7f0;
-    --parchment-medium: #f0ead6;
-    --parchment-dark: #e6dcc2;
+    --parchment-light: #e8dcc0;
+    --parchment-medium: #ddd0b0;
+    --parchment-dark: #d4c4a0;
     --ink-black: #2c1810;
     --ink-brown: #4a3426;
     --royal-blue: #1e2563;
-    --noble-red: #7f1d1d;
+    --noble-red: #b91c1c;
     --golden-yellow: #ca8a04;
     --silver-gray: #64748b;
     --deep-purple: #4c1d95;
-    --aged-border: #c4a373;
-    --shadow-dark: rgba(44, 24, 16, 0.2);
-    --text-shadow: rgba(44, 24, 16, 0.8);
+    --aged-border: #b8956b;
+    --shadow-dark: rgba(44, 24, 16, 0.3);
+    --highlight-red: #dc2626;
 }
 
-/* RESET und BASIS */
+/* GLOBAL RESET */
 * {
     box-sizing: border-box;
 }
 
-body {
+body, html {
     font-family: 'Spectral', serif !important;
-    background: 
-        linear-gradient(135deg, var(--parchment-light) 0%, var(--parchment-medium) 50%, var(--parchment-dark) 100%) !important;
+    background: var(--parchment-light) !important;
     color: var(--ink-black) !important;
     line-height: 1.7 !important;
     margin: 0 !important;
     padding: 0 !important;
     min-height: 100vh !important;
+    font-size: 16px !important;
 }
 
-/* LAYOUT FIX */
+/* LAYOUT CONTAINER */
 .layout,
-.app-container {
+.app-container,
+body {
+    background: var(--parchment-light) !important;
     display: flex !important;
     min-height: 100vh !important;
-    max-width: 100vw !important;
-    overflow-x: hidden !important;
+    position: relative !important;
 }
 
 /* SIDEBAR STYLING */
@@ -51,37 +52,21 @@ body {
     max-width: 300px !important;
     background: 
         linear-gradient(180deg, 
-            rgba(250, 247, 240, 0.98) 0%, 
-            rgba(240, 234, 214, 0.95) 100%) !important;
+            rgba(212, 196, 160, 0.98) 0%, 
+            rgba(221, 208, 176, 0.95) 100%) !important;
     border-right: 3px solid var(--aged-border) !important;
-    box-shadow: 
-        3px 0 15px rgba(44, 24, 16, 0.15) !important;
+    box-shadow: 3px 0 15px rgba(44, 24, 16, 0.2) !important;
     overflow-y: auto !important;
     z-index: 100 !important;
     position: relative !important;
 }
 
-/* SIDEBAR DECORATIVE BORDER */
-.sidebar::after,
-.filetree::after {
-    content: '' !important;
-    position: absolute !important;
-    top: 20px !important;
-    right: -8px !important;
-    width: 12px !important;
-    height: 12px !important;
-    background: var(--golden-yellow) !important;
-    border: 2px solid var(--royal-blue) !important;
-    border-radius: 50% !important;
-    box-shadow: 0 0 8px rgba(202, 138, 4, 0.6) !important;
-}
-
-/* SITE TITLE */
+/* LOGO/TITEL BEREICH */
 .navbar-brand,
 .site-title,
 .header-title {
     font-family: 'Almendra', serif !important;
-    font-size: 22px !important;
+    font-size: 20px !important;
     font-weight: 700 !important;
     color: var(--ink-black) !important;
     text-transform: uppercase !important;
@@ -91,10 +76,11 @@ body {
     padding: 20px 15px !important;
     border-bottom: 2px solid var(--aged-border) !important;
     margin-bottom: 0 !important;
-    background: 
-        radial-gradient(ellipse at center, 
-            rgba(202, 138, 4, 0.08) 0%, 
-            transparent 70%) !important;
+    background: rgba(184, 149, 107, 0.2) !important;
+    min-height: 80px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
 }
 
 .navbar-brand::after,
@@ -114,15 +100,17 @@ body {
 .toc-item {
     font-family: 'Spectral', serif !important;
     color: var(--ink-black) !important;
-    padding: 10px 20px 10px 35px !important;
+    padding: 12px 20px 12px 35px !important;
     transition: all 0.3s ease !important;
     border-left: 3px solid transparent !important;
     position: relative !important;
-    font-size: 14px !important;
+    font-size: 15px !important;
     text-decoration: none !important;
     display: block !important;
     line-height: 1.4 !important;
-    margin: 2px 0 !important;
+    margin: 2px 5px !important;
+    background: rgba(255, 255, 255, 0.4) !important;
+    border-radius: 4px !important;
 }
 
 .tree-item::before,
@@ -132,7 +120,7 @@ body {
     content: '●' !important;
     position: absolute !important;
     left: 18px !important;
-    top: 13px !important;
+    top: 15px !important;
     color: var(--silver-gray) !important;
     font-size: 6px !important;
 }
@@ -141,10 +129,7 @@ body {
 .nav-link:hover,
 .filetree-item:hover,
 .toc-item:hover {
-    background: 
-        linear-gradient(90deg, 
-            rgba(127, 29, 29, 0.12), 
-            transparent) !important;
+    background: rgba(185, 28, 28, 0.15) !important;
     border-left-color: var(--noble-red) !important;
     color: var(--noble-red) !important;
     padding-left: 40px !important;
@@ -163,10 +148,7 @@ body {
 .nav-link.active,
 .filetree-item.active,
 .toc-item.active {
-    background: 
-        linear-gradient(90deg, 
-            rgba(76, 29, 149, 0.15), 
-            rgba(76, 29, 149, 0.03)) !important;
+    background: rgba(76, 29, 149, 0.2) !important;
     border-left-color: var(--deep-purple) !important;
     color: var(--deep-purple) !important;
     font-weight: 600 !important;
@@ -179,9 +161,39 @@ body {
 .cm-editor {
     flex: 1 !important;
     background: var(--parchment-light) !important;
-    padding: 30px 40px !important;
+    padding: 30px 250px 30px 40px !important; /* Platz für Graph rechts */
     overflow-y: auto !important;
     max-width: calc(100vw - 300px) !important;
+    position: relative !important;
+}
+
+/* GRAPH CONTAINER - RECHTS POSITIONIERT */
+.graph-view,
+.graph-container {
+    position: fixed !important;
+    top: 100px !important;
+    right: 20px !important;
+    width: 200px !important;
+    height: 300px !important;
+    background: rgba(255, 255, 255, 0.95) !important;
+    border: 2px solid var(--aged-border) !important;
+    border-radius: 8px !important;
+    box-shadow: 0 4px 15px rgba(44, 24, 16, 0.3) !important;
+    z-index: 1000 !important;
+    overflow: hidden !important;
+}
+
+.graph-view::before,
+.graph-container::before {
+    content: 'Seitengraph' !important;
+    position: absolute !important;
+    top: 5px !important;
+    left: 10px !important;
+    font-size: 12px !important;
+    color: var(--ink-brown) !important;
+    font-family: 'Almendra', serif !important;
+    font-weight: 600 !important;
+    z-index: 1001 !important;
 }
 
 /* CONTENT WRAPPER */
@@ -193,7 +205,7 @@ body {
     margin-bottom: 25px !important;
     border-radius: 8px !important;
     box-shadow: 
-        0 6px 20px rgba(44, 24, 16, 0.15),
+        0 6px 20px rgba(44, 24, 16, 0.2),
         inset 0 1px 0 rgba(255,255,255,0.8) !important;
     position: relative !important;
 }
@@ -225,7 +237,7 @@ body {
     padding: 0 12px !important;
 }
 
-/* TYPOGRAPHY VERBESSERUNGEN */
+/* TYPOGRAPHY */
 h1 {
     font-family: 'Almendra', serif !important;
     font-size: 32px !important;
@@ -248,7 +260,6 @@ h1 {
     position: relative !important;
 }
 
-/* DECORATIVE CORNERS */
 h1::before {
     content: '' !important;
     position: absolute !important;
@@ -294,7 +305,7 @@ h3, h4, h5, h6 {
     margin: 25px 0 15px 0 !important;
 }
 
-/* PARAGRAPHS - BESSERE LESBARKEIT */
+/* PARAGRAPHS - VERBESSERTE LESBARKEIT */
 p {
     font-family: 'Spectral', serif !important;
     font-size: 16px !important;
@@ -302,20 +313,32 @@ p {
     color: var(--ink-black) !important;
     margin-bottom: 18px !important;
     text-align: justify !important;
-    text-indent: 25px !important;
+    text-indent: 0 !important; /* Entfernt Einrückung */
 }
 
-/* ILLUMINATED FIRST LETTER - ANGEPASST */
+/* ILLUMINATED FIRST LETTER - OHNE LÜCKE */
 .note-content p:first-of-type::first-letter,
 .markdown-rendered p:first-of-type::first-letter {
     font-family: 'Almendra', serif !important;
-    font-size: 56px !important;
+    font-size: 4em !important;
     font-weight: 700 !important;
     color: var(--noble-red) !important;
     float: left !important;
-    line-height: 48px !important;
-    margin: 6px 10px 0 0 !important;
+    line-height: 0.8 !important;
+    margin: 0.1em 0.1em 0 0 !important; /* Minimaler Abstand */
     text-shadow: 2px 2px 4px var(--shadow-dark) !important;
+    vertical-align: top !important;
+}
+
+/* HERVORGEHOBENE WÖRTER - ROT */
+strong, b {
+    color: var(--highlight-red) !important;
+    font-weight: 700 !important;
+}
+
+em, i {
+    color: var(--noble-red) !important;
+    font-style: italic !important;
 }
 
 /* LISTS */
@@ -346,11 +369,11 @@ li::before {
 }
 
 li:hover {
-    background: rgba(127, 29, 29, 0.05) !important;
+    background: rgba(185, 28, 28, 0.08) !important;
     padding-left: 35px !important;
 }
 
-/* LINKS - VERBESSERTE LESBARKEIT */
+/* LINKS */
 a {
     color: var(--royal-blue) !important;
     text-decoration: underline !important;
@@ -360,12 +383,11 @@ a {
 }
 
 a:hover {
-    color: var(--deep-purple) !important;
+    color: var(--highlight-red) !important;
     text-decoration-style: solid !important;
-    text-shadow: 0 0 3px rgba(76, 29, 149, 0.3) !important;
+    text-shadow: 0 0 3px rgba(220, 38, 38, 0.4) !important;
 }
 
-/* INTERNAL LINKS */
 .internal-link {
     color: var(--royal-blue) !important;
     text-decoration: underline dotted !important;
@@ -373,7 +395,7 @@ a:hover {
 }
 
 .internal-link:hover {
-    color: var(--deep-purple) !important;
+    color: var(--highlight-red) !important;
     text-decoration: underline solid !important;
 }
 
@@ -388,24 +410,8 @@ blockquote {
     padding: 20px !important;
     border-left: 4px solid var(--golden-yellow) !important;
     border-right: 4px solid var(--golden-yellow) !important;
-    background: rgba(202, 138, 4, 0.08) !important;
+    background: rgba(202, 138, 4, 0.1) !important;
     border-radius: 4px !important;
-}
-
-/* GRAPH FIX - WICHTIG! */
-.graph-view,
-.graph-container {
-    position: fixed !important;
-    bottom: 20px !important;
-    left: 20px !important;
-    width: 260px !important;
-    height: 200px !important;
-    background: rgba(255, 255, 255, 0.95) !important;
-    border: 2px solid var(--aged-border) !important;
-    border-radius: 8px !important;
-    box-shadow: 0 4px 15px rgba(44, 24, 16, 0.2) !important;
-    z-index: 1000 !important;
-    overflow: hidden !important;
 }
 
 /* SEARCH INPUT */
@@ -436,21 +442,54 @@ input[type="search"]:focus {
 /* CODE STYLING */
 code {
     font-family: 'Spectral', serif !important;
-    background: rgba(196, 163, 115, 0.2) !important;
-    border: 1px solid var(--aged-border) !important;
+    background: rgba(185, 28, 28, 0.15) !important;
+    border: 1px solid var(--noble-red) !important;
     padding: 2px 6px !important;
     border-radius: 3px !important;
-    color: var(--ink-brown) !important;
+    color: var(--highlight-red) !important;
+    font-weight: 600 !important;
     font-size: 14px !important;
 }
 
 pre {
-    background: rgba(250, 247, 240, 0.9) !important;
+    background: rgba(232, 220, 192, 0.9) !important;
     border: 2px solid var(--aged-border) !important;
     padding: 15px !important;
     margin: 15px 0 !important;
     border-radius: 6px !important;
     overflow-x: auto !important;
+}
+
+/* TABLES */
+table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    margin: 20px 0 !important;
+    font-family: 'Spectral', serif !important;
+    background: rgba(255, 255, 255, 0.8) !important;
+}
+
+th, td {
+    border: 1px solid var(--aged-border) !important;
+    padding: 10px !important;
+    text-align: left !important;
+}
+
+th {
+    background: rgba(202, 138, 4, 0.2) !important;
+    font-weight: 600 !important;
+    color: var(--royal-blue) !important;
+}
+
+/* HOMEPAGE SPECIFIC STYLES */
+.dg-home,
+.home-page {
+    display: block !important;
+}
+
+/* FORCE UPDATE für alle Inhalte */
+.layout * {
+    background-color: inherit !important;
 }
 
 /* MOBILE RESPONSIVE */
@@ -478,84 +517,68 @@ pre {
         padding: 15px !important;
     }
     
-    h1 {
-        font-size: 24px !important;
-        padding: 20px !important;
-    }
-    
-    p {
-        text-indent: 0 !important;
-    }
-    
-    .note-content p:first-of-type::first-letter,
-    .markdown-rendered p:first-of-type::first-letter {
-        font-size: 42px !important;
-        line-height: 36px !important;
-    }
-    
     .graph-view,
     .graph-container {
         position: relative !important;
         width: 100% !important;
         height: 150px !important;
-        bottom: auto !important;
-        left: auto !important;
+        top: auto !important;
+        right: auto !important;
         margin: 10px 0 !important;
+    }
+    
+    h1 {
+        font-size: 24px !important;
+        padding: 20px !important;
+    }
+    
+    .note-content p:first-of-type::first-letter,
+    .markdown-rendered p:first-of-type::first-letter {
+        font-size: 3em !important;
     }
 }
 
 /* SCROLLBAR STYLING */
 ::-webkit-scrollbar {
-    width: 8px !important;
+    width: 10px !important;
 }
 
 ::-webkit-scrollbar-track {
-    background: var(--parchment-light) !important;
+    background: var(--parchment-medium) !important;
 }
 
 ::-webkit-scrollbar-thumb {
     background: var(--aged-border) !important;
-    border-radius: 4px !important;
+    border-radius: 5px !important;
 }
 
 ::-webkit-scrollbar-thumb:hover {
     background: var(--royal-blue) !important;
 }
 
-/* OVERRIDE für bessere Sichtbarkeit */
-body, html {
-    font-size: 14px !important;
+/* FORCE BACKGROUND für alles */
+body > *,
+.app-container > *,
+.layout > * {
+    background: var(--parchment-light) !important;
 }
 
-/* Bessere Kontraste */
-.tree-item, .nav-link, .filetree-item {
-    background: rgba(255, 255, 255, 0.3) !important;
-    margin: 1px 5px !important;
-    border-radius: 4px !important;
+/* SPEZIFISCHE HOMEPAGE FIXES */
+.markdown-preview-view,
+.markdown-rendered,
+.note-content {
+    background: rgba(255, 255, 255, 0.9) !important;
 }
 
-/* Homepage Update Fix */
-.dg-home {
-    display: block !important;
+/* Verbesserte Sichtbarkeit für alle Textelemente */
+h1, h2, h3, h4, h5, h6, p, li, span, div {
+    color: var(--ink-black) !important;
 }
 
-/* Table Styling */
-table {
-    width: 100% !important;
-    border-collapse: collapse !important;
-    margin: 20px 0 !important;
-    font-family: 'Spectral', serif !important;
-    background: rgba(255, 255, 255, 0.8) !important;
-}
-
-th, td {
-    border: 1px solid var(--aged-border) !important;
-    padding: 10px !important;
-    text-align: left !important;
-}
-
-th {
-    background: rgba(202, 138, 4, 0.15) !important;
+/* Hervorgehobene Elemente rot */
+.highlight,
+.tag,
+.internal-link-alias {
+    color: var(--highlight-red) !important;
     font-weight: 600 !important;
-    color: var(--royal-blue) !important;
 }
