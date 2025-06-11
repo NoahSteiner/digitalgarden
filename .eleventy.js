@@ -94,6 +94,8 @@ function getAnchorAttributes(filePath, linkTitle) {
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("src/styles/valdoria-theme.scss");
+  eleventyConfig.addPassthroughCopy("src/static/valdoria-interactions.js");
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
