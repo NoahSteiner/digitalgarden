@@ -1,5 +1,5 @@
 // ===================================
-// VALDORIA D&D CAMPAIGN THEME
+// VALDORIA D&D CAMPAIGN THEME - FIXED VERSION
 // Mobile-First 3-Column Responsive Layout
 // ===================================
 
@@ -96,11 +96,11 @@ body {
   display: flex;
   align-items: center;
   gap: 0.5rem;
-}
 
-.site-title::before {
-  content: "🐉";
-  font-size: 1.8rem;
+  &::before {
+    content: "🐉";
+    font-size: 1.8rem;
+  }
 }
 
 // ===================================
@@ -125,10 +125,10 @@ body {
   height: calc(100vh - var(--header-height));
   z-index: 90;
   box-shadow: 2px 0 10px rgba(0,0,0,0.3);
-}
 
-.left-sidebar.open {
-  transform: translateX(0);
+  &.open {
+    transform: translateX(0);
+  }
 }
 
 // Navigation Sections
@@ -244,7 +244,7 @@ body {
     }
   }
   
-  // Blockquotes
+  // Blockquotes - FIXED: Verwendet Unicode statt direktes Anführungszeichen
   blockquote {
     border-left: 4px solid var(--valdoria-secondary);
     margin: 1.5rem 0;
@@ -255,7 +255,7 @@ body {
     position: relative;
     
     &::before {
-      content: """;
+      content: "\201C"; // Unicode für öffnende Anführungszeichen
       font-size: 3rem;
       color: var(--valdoria-secondary);
       position: absolute;
@@ -551,57 +551,6 @@ body {
   .content {
     max-width: 1000px;
     padding: 3rem;
-  }
-}
-
-// ===================================
-// PRINT STYLES
-// ===================================
-
-@media print {
-  .left-sidebar,
-  .right-sidebar,
-  .mobile-menu-toggle,
-  .dark-mode-toggle {
-    display: none !important;
-  }
-  
-  .layout {
-    grid-template-areas: "content";
-    grid-template-columns: 1fr;
-  }
-  
-  .content {
-    padding: 0;
-    background: white;
-    color: black;
-  }
-}
-
-// ===================================
-// ACCESSIBILITY
-// ===================================
-
-@media (prefers-reduced-motion: reduce) {
-  * {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
-  }
-}
-
-// Focus Styles
-*:focus {
-  outline: 2px solid var(--valdoria-secondary);
-  outline-offset: 2px;
-}
-
-// High Contrast Mode
-@media (prefers-contrast: high) {
-  :root {
-    --valdoria-bg-dark: #000000;
-    --valdoria-text-primary: #ffffff;
-    --valdoria-border: #ffffff;
   }
 }
 
