@@ -1,0 +1,291 @@
+---
+layout: base
+---
+
+<div class="layout">
+  <!-- Header -->
+  <header class="site-header">
+    <a href="/" class="site-title" aria-label="Valdoria Campaign Home">
+      {{ meta.siteName or "Valdoria Campaign" }}
+    </a>
+    
+    <nav class="desktop-nav" aria-label="Main navigation">
+      <a href="/sessions/" class="nav-link">Sessions</a>
+      <a href="/characters/" class="nav-link">Charaktere</a>
+      <a href="/regions/" class="nav-link">Regionen</a>
+    </nav>
+  </header>
+
+  <!-- Left Sidebar Navigation -->
+  <nav class="left-sidebar" id="main-sidebar" aria-label="Site navigation">
+    <!-- Search -->
+    <div class="search-container">
+      <input 
+        type="text" 
+        class="search-input" 
+        placeholder="🔍 Durchsuche Valdoria..."
+        id="site-search"
+        aria-label="Search"
+      >
+      <span class="search-icon">⚡</span>
+    </div>
+
+    <!-- Sessions Navigation -->
+    <div class="nav-section">
+      <h3>📖 Sessions</h3>
+      <ul>
+        {% for session in collections.sessions | reverse | head(8) %}
+        <li>
+          <a href="{{ session.url }}">
+            {{ session.data.title or ("Session " + loop.index) }}
+          </a>
+        </li>
+        {% endfor %}
+        {% if collections.sessions.length > 8 %}
+        <li><a href="/sessions/" class="view-all">→ Alle Sessions</a></li>
+        {% endif %}
+      </ul>
+    </div>
+
+    <!-- Characters Navigation -->
+    <div class="nav-section">
+      <h3>⚔️ Charaktere</h3>
+      <ul>
+        <li><a href="/coslo-valcyne/">Coslo Valcyne</a></li>
+        <li><a href="/elar-dretiss/">Elar Dre'tiss</a></li>
+        <li><a href="/thuvera-greenbog/">Thu'veera Greenbog</a></li>
+        <li><a href="/waluigi/">Waluigi</a></li>
+      </ul>
+    </div>
+
+    <!-- Regions Navigation -->
+    <div class="nav-section">
+      <h3>🗺️ Valdoria</h3>
+      <ul>
+        <li><a href="/al-sahar/">Al-Sahar</a></li>
+        <li><a href="/aurion/">Aurion</a></li>
+        <li><a href="/azuria/">Azuria</a></li>
+        <li><a href="/erythria/">Erythria</a></li>
+        <li><a href="/lunaria/">Lunaria</a></li>
+        <li><a href="/morvana/">Morvana</a></li>
+        <li><a href="/viridia/">Viridia</a></li>
+      </ul>
+    </div>
+
+    <!-- Tags -->
+    <div class="nav-section">
+      <h3>🏷️ Tags</h3>
+      <div class="tag-cloud">
+        {% for tag in collections.tagList | head(12) %}
+        <a href="/tags/{{ tag | slug }}/" class="tag">#{{ tag }}</a>
+        {% endfor %}
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
+  <main class="content" role="main">
+    <article>
+      <header class="article-header">
+        {% if page.data.tags %}
+        <div class="article-tags">
+          {% for tag in page.data.tags %}
+            {% if tag != "notes" %}
+            <span class="tag">#{{ tag }}</span>
+            {% endif %}
+          {% endfor %}
+        </div>
+        {% endif %}
+        
+        <h1>{{ title or (page.fileSlug | title) }}</h1>
+        
+        {% if page.data.Updated %}
+        <div class="article-meta">
+          <time datetime="{{ page.data.Updated }}">
+            Aktualisiert: {{ page.data.Updated | dateFormat }}
+          </time>
+        </div>
+        {% endif %}
+      </header>
+
+      <div class="article-content">
+        {{ content | safe }}
+      </div>
+
+      <!-- Session Navigation -->
+      {% if collections.sessions %}
+      <nav class="session-nav" aria-label="Session navigation">
+        {% set previousPost = collections.sessions | getPreviousCollectionItem(page) %}
+        {% set nextPost = collections.sessions | getNextCollectionItem(page) %}
+        
+        <div class="session-nav-links">
+          {% if previousPost %}
+          <a href="{{ previousPost.url }}" class="session-nav-link prev">
+            <span class="nav-label">← Vorherige Session</span>
+            <span class="nav-title">{{ previousPost.data.title or previousPost.fileSlug }}</span>
+          </a>
+          {% endif %}
+          
+          {% if nextPost %}
+          <a href="{{ nextPost.url }}" class="session-nav-link next">
+            <span class="nav-label">Nächste Session →</span>
+            <span class="nav-title">{{ nextPost.data.title or nextPost.fileSlug }}</span>
+          </a>
+          {% endif %}
+        </div>
+      </nav>
+      {% endif %}
+    </article>
+  </main>
+
+  <!-- Right Sidebar - Table of Contents -->
+  <aside class="right-sidebar" aria-label="Table of contents and related links">
+    <!-- Table of Contents -->
+    {% if toc and toc.length > 0 %}
+    <div class="toc-section">
+      <h4>📋 Inhalt</h4>
+      <ul>
+        {% for item in toc %}
+        <li>
+          <a href="#{{ item.anchor }}">{{ item.text }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    <!-- Campaign Stats -->
+    <div class="campaign-stats">
+      <h4>⚔️ Campaign Status</h4>
+      <div class="stats-grid">
+        <div class="stat">
+          <span class="number">{{ collections.sessions.length or 3 }}</span>
+          <span class="label">Sessions</span>
+        </div>
+        <div class="stat">
+          <span class="number">4</span>
+          <span class="label">Helden</span>
+        </div>
+        <div class="stat">
+          <span class="number">8</span>
+          <span class="label">Wächter</span>
+        </div>
+        <div class="stat">
+          <span class="number">{{ collections.regions.length or 8 }}</span>
+          <span class="label">Regionen</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Backlinks -->
+    {% if backlinks and backlinks.length > 0 %}
+    <div class="toc-section">
+      <h4>🔗 Verweise</h4>
+      <ul>
+        {% for backlink in backlinks | head(8) %}
+        <li>
+          <a href="{{ backlink.url }}">{{ backlink.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    <!-- Related Content -->
+    {% if page.data.tags %}
+    <div class="toc-section">
+      <h4>🎯 Ähnlich</h4>
+      <ul>
+        {% set relatedPages = collections[page.data.tags[0]] | head(6) %}
+        {% for related in relatedPages %}
+          {% if related.url != page.url %}
+          <li>
+            <a href="{{ related.url }}">{{ related.data.title or related.fileSlug }}</a>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+  </aside>
+</div>
+
+<!-- Mobile Overlay -->
+<div class="mobile-overlay" id="mobile-overlay"></div>
+
+<!-- Enhanced CSS for Session Navigation -->
+<style>
+.session-nav {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 3px solid var(--valdoria-border);
+}
+
+.session-nav-links {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.session-nav-link {
+  flex: 1;
+  min-width: 200px;
+  background: linear-gradient(135deg, var(--valdoria-bg-sidebar), var(--valdoria-accent));
+  border: 2px solid var(--valdoria-border);
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-decoration: none;
+  color: var(--valdoria-text-primary);
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  
+  &:hover {
+    border-color: var(--valdoria-secondary);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(218, 165, 32, 0.2);
+  }
+}
+
+.nav-label {
+  font-size: 0.8rem;
+  color: var(--valdoria-text-secondary);
+  font-weight: 500;
+}
+
+.nav-title {
+  font-size: 1rem;
+  color: var(--valdoria-secondary);
+  font-weight: 600;
+}
+
+.article-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--valdoria-border);
+}
+
+.article-tags {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.article-meta {
+  color: var(--valdoria-text-secondary);
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 767px) {
+  .session-nav-links {
+    flex-direction: column;
+  }
+  
+  .session-nav-link {
+    min-width: auto;
+  }
+}
+</style>
