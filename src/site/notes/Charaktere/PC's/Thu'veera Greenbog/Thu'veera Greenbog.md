@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/charaktere/pc-s/thu-veera-greenbog/thu-veera-greenbog/","tags":["DND","PC","Tobi"],"created":"2025-01-13T09:48:26.657+01:00","updated":"2025-06-06T18:07:55.063+02:00"}
+{"dg-publish":true,"permalink":"/charaktere/pc-s/thu-veera-greenbog/thu-veera-greenbog/","tags":["DND","PC","Tobi"]}
 ---
 
 ## Ein Brief von Thu'veera Greenbog

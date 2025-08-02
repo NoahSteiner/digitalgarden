@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/charaktere/pc-s/elar-dre-tiss/elar-dre-tiss/","tags":["DND","PC","Nico"],"created":"2025-01-14T17:31:37.824+01:00","updated":"2025-06-06T18:07:54.889+02:00"}
+{"dg-publish":true,"permalink":"/charaktere/pc-s/elar-dre-tiss/elar-dre-tiss/","tags":["DND","PC","Nico"]}
 ---
 
 ## Ein Brief von Elar Dre'tiss

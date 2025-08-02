@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/sesssions/session-2/","tags":["Session","DND","Max","Christoph","Nico","PC","NPC","Tobi"],"created":"2025-03-14T21:14:48.435+01:00","updated":"2025-03-14T23:12:39.072+01:00"}
+{"dg-publish":true,"permalink":"/sesssions/session-2/","tags":["Session","DND","Max","Christoph","Nico","PC","NPC","Tobi"]}
 ---
 
 ### **Session 2 – Das Blutritual der Vergessenen Ruinen**
 
 Die Nacht im **Banditenlager** war ruhig, doch die Schatten der Wüste lagen schwer über der Gruppe. Während [[Charaktere/PC's/Coslo Valyne/Coslo Valcyne\|Coslo Valcyne]], [[Charaktere/PC's/Thu'veera Greenbog/Thu'veera Greenbog\|Thu'veera]] und [[Charaktere/PC's/Walugigi/Waluigi\|Waluigi]] sich kurz umsahen und dann ruhten, versuchte [[Charaktere/PC's/Elar Dre'tiss/Elar Dre'tiss\|Elar]] vergeblich, den entflohenen **Dinosaurier** für sich zu gewinnen. Doch das Tier war zu wild, und so zog auch er sich schließlich zum Schlafen zurück.
 
-Am nächsten Morgen war der **Sandsturm verflogen**, und die Gruppe machte sich auf den Weg zurück zu [[Charaktere/NPC's/Azir Halim\|Azir Halim]]. Unterwegs diskutierten sie, wie sie mit dem Händler umgehen sollten – Mord und Folter wurden nicht ausgeschlossen, doch [[Charaktere/PC's/Coslo Valyne/Coslo Valcyne\|Coslo Valcyne]] war es, der mit kühlem Kopf die Gruppe auf eine **diplomatische Lösung** lenkte. Als sie [[Charaktere/NPC's/Azir Halim\|Azir Halim]] erreichten, übernahm er das Gespräch und berichtete von dem **Ritual in den Ruinen** – doch das **Artefakt** verschwieg er.
+Am nächsten Morgen war der **Sandsturm verflogen**, und die Gruppe machte sich auf den Weg zurück zu [[Charaktere/NPC's/Al-Sahar/Azir Halim\|Azir Halim]]. Unterwegs diskutierten sie, wie sie mit dem Händler umgehen sollten – Mord und Folter wurden nicht ausgeschlossen, doch [[Charaktere/PC's/Coslo Valyne/Coslo Valcyne\|Coslo Valcyne]] war es, der mit kühlem Kopf die Gruppe auf eine **diplomatische Lösung** lenkte. Als sie [[Charaktere/NPC's/Al-Sahar/Azir Halim\|Azir Halim]] erreichten, übernahm er das Gespräch und berichtete von dem **Ritual in den Ruinen** – doch das **Artefakt** verschwieg er.
 
-[[Charaktere/NPC's/Azir Halim\|Azir Halim]] war zufrieden mit ihrer Arbeit und zahlte ihnen eine **Belohnung**, bevor er mit seiner Karawane in Richtung [[Regionen und Orte/Al-Sahar/Ashheart/Ashheart\|Ashheart]] aufbrach. Währenddessen verkaufte [[Charaktere/PC's/Walugigi/Waluigi\|Waluigi]] noch einige erbeutete Gegenstände.
+[[Charaktere/NPC's/Al-Sahar/Azir Halim\|Azir Halim]] war zufrieden mit ihrer Arbeit und zahlte ihnen eine **Belohnung**, bevor er mit seiner Karawane in Richtung [[Regionen und Orte/Al-Sahar/Ashheart/Ashheart\|Ashheart]] aufbrach. Währenddessen verkaufte [[Charaktere/PC's/Walugigi/Waluigi\|Waluigi]] noch einige erbeutete Gegenstände.
 
 Nach einem kurzen Halt in der Stadt, wo sie **Vorräte auffüllten** und [[Charaktere/PC's/Elar Dre'tiss/Elar Dre'tiss\|Elar]] eine **Karte der Gegend** kaufte, um die Ruinen zu finden, zog die Gruppe am nächsten Tag los. Unterwegs halfen sie einem **gestrandeten Händler**, dessen Wagen repariert werden musste – eine kleine Tat der Güte, die sich vielleicht noch auszahlen würde.
 

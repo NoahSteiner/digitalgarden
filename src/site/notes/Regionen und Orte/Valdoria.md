@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regionen-und-orte/valdoria/","created":"2025-01-14T23:53:37.318+01:00","updated":"2025-01-22T11:01:21.181+01:00"}
+{"dg-publish":true,"permalink":"/regionen-und-orte/valdoria/"}
 ---
 
 Valdoria ist ein vielfältiger Kontinent, reich an Geschichte, Magie und Abenteuern. Seine Landschaften reichen von eisigen Polarzonen bis hin zu tropischen Küstenregionen. Hier findest du eine Übersicht über die verschiedenen Regionen und ihre Besonderheiten.
@@ -11,7 +11,7 @@ Valdoria ist ein vielfältiger Kontinent, reich an Geschichte, Magie und Abenteu
 #### 1. [[Regionen und Orte/Erythria/Erythria\|Erythria]]
 
 - **Lage:** Im äußersten Norden.
-- **Beschreibung:** Polarzone mit Gletschern, Frostböden und [[Aurora-Kristallen\|Aurora-Kristallen]].
+- **Beschreibung:** Polarzone mit Gletschern, Frostböden und [[Regionen und Orte/Aurion/Aurora-Kristallen\|Aurora-Kristallen]].
 
 #### 2. [[Regionen und Orte/Lunaria/Lunaria\|Lunaria]]
 
@@ -59,7 +59,7 @@ Valdoria ist ein Kontinent mit vielfältigen Kulturen, die von den Landschaften 
 ## Karte
 
 Die Karte von Valdoria zeigt die verschiedenen Regionen und ihre Verbindungen.
-![Valdoria.jpg](/img/user/PNG's/Valdoria.jpg)
+![Valdoria.png](/img/user/PNG's/Valdoria.png)
 
 ---
 

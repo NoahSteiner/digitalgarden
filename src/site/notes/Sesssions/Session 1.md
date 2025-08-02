@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sesssions/session-1/","tags":["Session","DND"],"created":"2025-02-02T20:04:36.824+01:00","updated":"2025-02-04T17:11:14.830+01:00"}
+{"dg-publish":true,"permalink":"/sesssions/session-1/","tags":["Session","DND"]}
 ---
 
 ### **Session 1 – Die Schatten von Ashheart**
@@ -16,13 +16,13 @@ Während [[Charaktere/PC's/Thu'veera Greenbog/Thu'veera Greenbog\|Thu'veera]] ge
 
 Während [[Charaktere/PC's/Thu'veera Greenbog/Thu'veera Greenbog\|Thu'veera]] und [[Charaktere/PC's/Elar Dre'tiss/Elar Dre'tiss\|Elar]] gemeinsam einen umgestürzten Stand durchsuchten, um ein eingeschlossenes Kind zu retten, hatten sich die anderen bereits aufgemacht, den Banditen zu folgen. Als das Kind endlich aus den Trümmern gezogen war, brachte **Elar** es in Sicherheit, während [[Charaktere/PC's/Thu'veera Greenbog/Thu'veera Greenbog\|Thu'veera]] sich wieder den anderen anschloss, um die Banditen zu verfolgen. Doch diese waren schneller – sie waren bereits auf **Kamelen** und stoben in einer Staubwolke davon.
 
-Wenig später versammelte sich die Gruppe erneut am Marktplatz, wo sie von einem imposanten Dragonborn-Händler namens [[Charaktere/NPC's/Azir Halim\|Azir Halim]] angesprochen wurde. Er war verzweifelt – die gestohlene Kiste war von unschätzbarem Wert. Als Belohnung bot er **10 Gold pro Person** als Vorauszahlung an, um sie zurückzuholen. Während die Gruppe sich vorbereitete, nutzte [[Charaktere/PC's/Coslo Valyne/Coslo Valcyne\|Coslo Valcyne]] die Gelegenheit, um seine gestohlenen Gewürze an eine Händlerin zu verkaufen – im Gegenzug erhielt er wertvolle **Heilkräuter**. Später, in der Taverne, setzte er sein Talent weiter ein und verkaufte einem Schmied einen gewöhnlichen Dolch, den er mit einer gefälschten Gravur versehen hatte.
+Wenig später versammelte sich die Gruppe erneut am Marktplatz, wo sie von einem imposanten Dragonborn-Händler namens [[Charaktere/NPC's/Al-Sahar/Azir Halim\|Azir Halim]] angesprochen wurde. Er war verzweifelt – die gestohlene Kiste war von unschätzbarem Wert. Als Belohnung bot er **10 Gold pro Person** als Vorauszahlung an, um sie zurückzuholen. Während die Gruppe sich vorbereitete, nutzte [[Charaktere/PC's/Coslo Valyne/Coslo Valcyne\|Coslo Valcyne]] die Gelegenheit, um seine gestohlenen Gewürze an eine Händlerin zu verkaufen – im Gegenzug erhielt er wertvolle **Heilkräuter**. Später, in der Taverne, setzte er sein Talent weiter ein und verkaufte einem Schmied einen gewöhnlichen Dolch, den er mit einer gefälschten Gravur versehen hatte.
 
-Als die Gruppe am nächsten Tag mit **[[Charaktere/NPC's/Azir Halim\|Azir]] und seiner Karawane** in die Wüste aufbrach, war die Spur der Banditen klar. Doch tief in der Wüste, als sie eine enge **Schlucht** durchquerten, schlug das Schicksal erneut zu – ein **Hinterhalt!**
+Als die Gruppe am nächsten Tag mit **[[Charaktere/NPC's/Al-Sahar/Azir Halim\|Azir]] und seiner Karawane** in die Wüste aufbrach, war die Spur der Banditen klar. Doch tief in der Wüste, als sie eine enge **Schlucht** durchquerten, schlug das Schicksal erneut zu – ein **Hinterhalt!**
 
 ### **Der Kampf in der Schlucht**
 
-Gerade als sie die Mitte der Schlucht erreichten, erhob sich plötzlich der Sand um sie herum. Banditen, die sich unter einer dünnen Sandschicht verborgen hatten, sprangen auf und stürzten sich auf die Gruppe. Pfeile flogen durch die Luft, und in wenigen Sekunden war die Karawane im Chaos gefangen. Zwei der Söldner, die [[Charaktere/NPC's/Azir Halim\|Azir]] angeheuert hatte, wurden schwer verletzt oder fielen direkt in den ersten Momenten des Kampfes. Die Spieler gerieten in Bedrängnis, doch ihre Reflexe retteten sie.
+Gerade als sie die Mitte der Schlucht erreichten, erhob sich plötzlich der Sand um sie herum. Banditen, die sich unter einer dünnen Sandschicht verborgen hatten, sprangen auf und stürzten sich auf die Gruppe. Pfeile flogen durch die Luft, und in wenigen Sekunden war die Karawane im Chaos gefangen. Zwei der Söldner, die [[Charaktere/NPC's/Al-Sahar/Azir Halim\|Azir]] angeheuert hatte, wurden schwer verletzt oder fielen direkt in den ersten Momenten des Kampfes. Die Spieler gerieten in Bedrängnis, doch ihre Reflexe retteten sie.
 
 - [[Charaktere/PC's/Coslo Valyne/Coslo Valcyne\|Coslo Valcyne]] reagierte als erster: Ein gleißender **Feuerball** explodierte zwischen den Banditen und riss einen Armbrustschützen in Flammen.
 - [[Charaktere/PC's/Elar Dre'tiss/Elar Dre'tiss\|Elar]] **ließ einen perfekt gezielten Pfeil** los, der einen Banditen durch die Kehle traf, bevor dieser überhaupt sein Schwert ziehen konnte.
@@ -33,7 +33,7 @@ Die Banditen, die sich bis eben noch überlegen gefühlt hatten, fanden sich pl�
 
 In diesem Moment erinnerte sich [[Charaktere/PC's/Coslo Valyne/Coslo Valcyne\|Coslo Valcyne]] an die Heilkräuter, die er auf dem Markt erhalten hatte. Er eilte zu  [[Charaktere/PC's/Walugigi/Waluigi\|Waluigi]] und reichte ihm die Heilpaste – ein kühler, beruhigender Effekt breitete sich auf seinen Wunden aus, und neue Kraft durchströmte seinen Körper. **Mit letzter Anstrengung erhob sich  [[Charaktere/PC's/Walugigi/Waluigi\|Waluigi]] erneut.**
 
-Nach dem erbitterten Kampf hielten sie inne. **Die Banditen waren geschlagen.** Nach dem [[Charaktere/NPC's/Azir Halim\|Azir]] der Grupp ein paar Heiltränke gab und die verbliebenen Karawanenführer sich um den Verwundeten kümmerten, sammelten die Abenteurer ihre Kräfte. Doch sie wussten – ihre Aufgabe war noch nicht vorbei.
+Nach dem erbitterten Kampf hielten sie inne. **Die Banditen waren geschlagen.** Nach dem [[Charaktere/NPC's/Al-Sahar/Azir Halim\|Azir]] der Grupp ein paar Heiltränke gab und die verbliebenen Karawanenführer sich um den Verwundeten kümmerten, sammelten die Abenteurer ihre Kräfte. Doch sie wussten – ihre Aufgabe war noch nicht vorbei.
 
 ### **Das Banditenlager**
 

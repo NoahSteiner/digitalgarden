@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/charaktere/pc-s/coslo-valyne/coslo-valcyne/","tags":["PC","DND","Max"],"created":"2025-01-13T10:26:37.921+01:00","updated":"2025-06-06T18:07:54.839+02:00"}
+{"dg-publish":true,"permalink":"/charaktere/pc-s/coslo-valyne/coslo-valcyne/","tags":["PC","DND","Max"]}
 ---
 
 ## Ein Brief von Coslo Valcyne
@@ -13,7 +13,7 @@ mein Name ist **Coslo Valcyne**, und dies ist meine Geschichte.
 
 ### Über mich
 
-Ich stamme aus den weiten Steppen von **Karadun**, einem Land, das gleichermaßen ungezähmt und wunderschön ist. Meine Mutter war ein Mensch und Teil unseres Nomadenstammes. Mein Vater, ein Elf, den sie während einer Reise traf, schenkte mir das Erbe, das in meinen Adern pulsiert: magische Kräfte, die ich bis heute kaum verstehe.
+Ich stamme aus den weiten Steppen von [[Regionen und Orte/Karadun/Karadun\|Karadun]], einem Land, das gleichermaßen ungezähmt und wunderschön ist. Meine Mutter war ein Mensch und Teil unseres Nomadenstammes. Mein Vater, ein Elf, den sie während einer Reise traf, schenkte mir das Erbe, das in meinen Adern pulsiert: magische Kräfte, die ich bis heute kaum verstehe.
 
 Meine Mutter reiste schwanger mit dem Stamm weiter, doch sie starb bei meiner Geburt. Der Stamm zog mich groß, und ich lernte früh, die rauen Bedingungen unserer Heimat zu meistern. Doch während andere sich auf die Traditionen und Fähigkeiten des Stammes verlassen konnten, war mein Weg anders. Es gab niemanden in unserem Stamm, der meine magischen Talente verstand oder mir helfen konnte, sie zu kontrollieren.
 
@@ -31,7 +31,7 @@ Trotzdem glaube ich, dass diese Kräfte ein Teil von mir sind – ein Zeichen da
 
 Ich habe meinen Stamm verlassen, um einen Lehrer zu finden, der mir helfen kann, meine Kräfte zu kontrollieren und sie sinnvoll einzusetzen. Ich erzähle selten von den genauen Gründen meiner Reise, doch tief in meinem Inneren weiß ich, dass ich meinem Stamm eines Tages beweisen möchte, dass ich meinen Platz in der Welt gefunden habe.
 
-Ich hoffe, dass ich auf dieser Reise nicht nur Kontrolle, sondern auch meinen wahren Zweck finde.
+Ich hoffe, dass ich auf dieser Reise nicht nur Kontrolle, sondern auchTF meinen wahren Zweck finde.
 
 ---
 

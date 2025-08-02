@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sesssions/session-3-die-sphinx-von-kashaar/","tags":["DND","dnd/session","Session","Christoph","Max","Nico","NPC","Tobi","Greenbog","Dretiss","Elar","Valcyne","Waluigi"],"created":"2025-06-10T10:30:30.768+02:00","updated":"2025-06-10T10:42:02.162+02:00"}
+{"dg-publish":true,"permalink":"/sesssions/session-3-die-sphinx-von-kashaar/","tags":["DND","dnd/session","Session","Christoph","Max","Nico","NPC","Tobi","Greenbog","Dretiss","Elar","Valcyne","Waluigi"]}
 ---
 
 
@@ -73,7 +73,7 @@ Die Augen der Sphinx verdunkelten sich, als sie die **furchtbare Wahrheit** ve
 
 **„Ihr könnt nicht alle retten, tapfere Seelen. Die Jagd hat bereits begonnen. Meine Visionen zeigen mir drei Pfade des Schicksals, doch keiner führt zur vollständigen Rettung."**
 
-Sie warnte, dass **drei Wächter in unmittelbarer Gefahr** schwebten: Der **Eisphönix**, der **Kristallwyrm** und der **Wellenleviathan** waren bereits von ihren Jägern aufgespürt worden. Die Zeit arbeitete gegen sie.
+Sie warnte, dass **drei Wächter in unmittelbarer Gefahr** schwebten: Der **Eisphönix**, der **Winddrache** und der **Wellenleviathan** waren bereits von ihren Jägern aufgespürt worden. Die Zeit arbeitete gegen sie.
 
 Bevor sie die Gruppe entließ, sprach die Sphinx mit **jedem Charakter privat** durch Telepathie – Worte, die nur für ihre Ohren bestimmt waren und deren Bedeutung sich erst später enthüllen würde.
 

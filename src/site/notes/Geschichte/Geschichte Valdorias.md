@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/geschichte/geschichte-valdorias/","created":"2025-01-15T00:01:07.401+01:00","updated":"2025-01-16T10:39:30.346+01:00"}
+{"dg-publish":true,"permalink":"/geschichte/geschichte-valdorias/"}
 ---
 
 Die letzten Jahrzehnte sind geprägt von einem scheinbaren Frieden, der auf den Trümmern eines brutalen Krieges errichtet wurde.
 
 #### **Der Blutige Einigungskrieg**
 
-Vor 30 Jahren begann der Einigungskrieg von [[Regionen und Orte/Valdoria\|Valdoria]]. Ein charismatischer Kriegsherr, König [[Aldred von Valis\|Aldred von Valis]] führte eine Allianz aus Soldaten, Magiern und Nomadenstämmen an, um den Kontinent unter einer Krone zu vereinen. Sein Ziel war es, das endlose Blutvergießen zu beenden und [[Regionen und Orte/Valdoria\|Valdoria]] zu einer einzigen Nation zu schmieden.
+Vor 30 Jahren begann der Einigungskrieg von [[Regionen und Orte/Valdoria\|Valdoria]]. Ein charismatischer Kriegsherr, König [[Charaktere/NPC's/Aldred von Valis\|Aldred von Valis]] führte eine Allianz aus Soldaten, Magiern und Nomadenstämmen an, um den Kontinent unter einer Krone zu vereinen. Sein Ziel war es, das endlose Blutvergießen zu beenden und [[Regionen und Orte/Valdoria\|Valdoria]] zu einer einzigen Nation zu schmieden.
 
 - **Die Folgen des Krieges:** Der Krieg war der blutigste, den [[Regionen und Orte/Valdoria\|Valdoria]] je gesehen hatte. Ganze Landstriche wurden verwüstet, Städte niedergebrannt und Millionen starben. Der Krieg endete vor 30 Jahren mit Aldreds Krönung zum „König der Einigkeit“. Doch sein Sieg war oberflächlich: Viele Regionen hassen sich noch immer, und der „geeinte Kontinent“ ist kaum mehr als ein lose zusammengehaltenes Bündnis.
 
